@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Getting information on a day/Coffee_Machine.Problems-Getting_information_on_a_day.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Merging date-time instances/Coffee_Machine.Problems-Merging_date-time_instances.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
